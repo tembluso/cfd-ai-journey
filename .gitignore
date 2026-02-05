@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.h5
+*.pkl
+*.pth
+
+# Don't commit external repos if accidentally cloned here
+external/CFDPython/
+external/harmonic-pinn/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Personal notes that might contain sensitive info
+**/private-notes.md
