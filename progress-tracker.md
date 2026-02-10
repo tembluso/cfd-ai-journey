@@ -30,14 +30,18 @@
 
 ### Week 2: First PINN (Target: Feb 3 - Feb 9)
 **Goals:**
-- [ ] Implement PINN for 1D heat equation
-- [ ] Get it to converge
-- [ ] Compare to traditional solver
-- [ ] Blog post written
+- [DONE] Implement PINN for 1D heat equation
+- [DONE] Get it to converge
+- [DONE] Compare to traditional solver
+- [DONE] Blog post written
+- [DONE] Learn linear and non-linear convection
 
 **What I Built:**
+-PINN for 1D heat euqation
 
 **What I Learned:**
+-How to create my first PINN from scratch for the heat equation.
+-Learned convetion equations
 
 **Blockers/Questions:**
 
