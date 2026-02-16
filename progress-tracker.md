@@ -41,12 +41,29 @@
 
 **What I Learned:**
 -How to create my first PINN from scratch for the heat equation.
--Learned convetion equations
+-Learned convection equations both linear and non linear.
 
-**Blockers/Questions:**
+### Week 3: Nonlinear Convection
+**Goals:**
+- [DONE] Implement PINN for non linear convection
+- [DONE] Get it to converge
+- [DONE] Understand PINN limitations to model shocks
+- [DONE] Blog post written
+- [DONE] Learn basics of burger's equation
 
-**Next Week Preview:**
+**What I Built:**
+-PINN for nonlinear convection
+-mega thread posting my results of the PINN with visuals
+-Megathread explaining burgers equations with visuals (very good thread but no more theory threads for equations I prefer to do PINN directly.)
 
+**What I Learned:**
+-Learned about discontinuities in differential equations.
+-Learned that PINNs are not able to model discontinuities.
+-Learned on why steepening happends.
+-Learned the basics of burgers equation
+
+**Preview Next week**
+-Model Burger's equation using a PINN
 ---
 
 [... Continue for all 12 weeks ...]
@@ -54,18 +71,30 @@
 ## Key Concepts Mastered
 - [YES] Partial derivatives
 - [YES] Boundary conditions
-- [ ] Automatic differentiation
+- [YES] Fourier Series
+- [YES] Automatic differentiation
 - [YES] JAX basics (jit, vmap, grad)
-- [] Neural network training
+- [YES] Neural network training
 - [YES] Physics loss vs data loss
+- [YES] Heat equation
+- [YES] Linear convection
+- [YES] Non linear convection
+- [YES] Why PINNs struggle at discontinuities
+- [YES] Theory of Burger's equation
 - [ ] Navier-Stokes equations
 - [ ] etc...
 
 ## Resources Used
-[Link to papers, tutorials, etc. as you use them]
+- [3Blue1Brown Youtube DE Series](https://www.youtube.com/watch?v=r6sGWTCMz2k)
+- [CFD Python - 12 Steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+- [Harmonic Oscillator PINN Tutorial](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
+- [Claude Projects](https://claude.ai)
+- 
 
 ## People Connected With
-[Names + how you connected]
+-@Abderrazakasmi Connected through X after a post.
+-@mathelirium Started following me after heat pinn.
+-
 ```
 
 **Update this every Sunday.** Then share summary on X.

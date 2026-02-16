@@ -29,3 +29,6 @@ external/harmonic-pinn/
 
 # Personal notes that might contain sensitive info
 **/private-notes.md
+
+# Progress tracker
+progress-tracker.md
