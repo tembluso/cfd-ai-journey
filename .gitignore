@@ -10,6 +10,7 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv-linux/
 
 # OS files
 .DS_Store
