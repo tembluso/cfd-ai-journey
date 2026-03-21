@@ -27,3 +27,21 @@
 - Run their notebooks to understand concepts
 - Rewrite key examples in my own style in my week folders
 - Never copy-paste - always rebuild from understanding
+
+## Mars Links
+
+### Raw PDS Data
+
+https://pds-geosciences.wustl.edu/missions/insight/hp3rad.htm
+
+-**HP3 calibarated temperature data:** https://pds-geosciences.wustl.edu/insight/urn-nasa-pds-insight_hp3_tem/data_tem_calibrated/
+-**HP3 Raw temperature Data:** https://pds-geosciences.wustl.edu/insight/urn-nasa-pds-insight_hp3_tem/data_tem_raw/
+-**RAD (Radiometer) Derived Data (surface temperature):** https://pds-geosciences.wustl.edu/insight/urn-nasa-pds-insight_rad/data_derived/
+
+
+### Sphon's processed  FigShare data set and paper
+
+-**Clean dataset:** https://doi.org/10.6084/m9.figshare.25099754
+-**Full paper:**  https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108600
+-**Other version:** https://elib.dlr.de/210686/
+
