@@ -28,8 +28,12 @@ external/harmonic-pinn/
 # Jupyter
 .ipynb_checkpoints
 
-# Personal notes that might contain sensitive info
-**/private-notes.md
 
 # Trackers
 trackers/
+
+# External resources and data sets
+papers/
+
+Mars Soil Temperatures and Thermal Properties from Annual Wave Data.xlsx
+Mars Soil Temperatures and Thermal Properties from Diurnal Wave data.xlsx
