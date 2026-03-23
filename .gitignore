@@ -33,7 +33,7 @@ external/harmonic-pinn/
 trackers/
 
 # External resources and data sets
-papers/
+resources/papers/
 
 Mars Soil Temperatures and Thermal Properties from Annual Wave Data.xlsx
 Mars Soil Temperatures and Thermal Properties from Diurnal Wave data.xlsx
