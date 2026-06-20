@@ -1,10 +1,3 @@
-# Notes that are on paper
-
-## Learned ODEs
-
-## Learned PDEs
-
-## Learned the general Heat Equation
 
 # Heat Equation & Fourier Series: Complete Summary
 

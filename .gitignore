@@ -5,6 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.so
 
+.claude
+
 # Virtual environments
 .venv/
 venv/
@@ -20,6 +22,7 @@ Thumbs.db
 *.h5
 *.pkl
 *.pth
+*.zip
 
 # Don't commit external repos if accidentally cloned here
 external/CFDPython/
@@ -31,6 +34,7 @@ external/harmonic-pinn/
 
 # Trackers
 trackers/
+paper/
 
 # External resources and data sets
 resources/papers/
