@@ -1,6 +1,6 @@
 # CFD + AI Learning Journey
 
-A 13-week hands-on exploration of Physics-Informed Neural Networks (PINNs) applied to computational fluid dynamics, culminating in a research application: recovering Martian soil thermal diffusivity from NASA InSight HP3 mission data using JAX. The final research paper is also included (Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026)
+A 13-week hands-on exploration of Physics-Informed Neural Networks (PINNs) applied to computational fluid dynamics, culminating in a research application: recovering Martian soil thermal diffusivity from NASA InSight HP3 mission data using JAX. The final research paper is also included [Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026](./Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026.pdf)
 
 ## What This Repo Covers
 
@@ -39,7 +39,7 @@ The journey progresses through:
 3. **Decomposition** (Week 11): Splitting the solution as T = T_1D + T_pert to isolate the mole's thermal perturbation from undisturbed soil temperature.
 4. **Verification** (Weeks 12-13): Statistical validation across multiple initializations and noise robustness testing.
 
-Final paper pdf document: (Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026)
+Final paper pdf document: [Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026](./Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026.pdf)
 
 ## Prerequisites
 
