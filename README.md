@@ -1,6 +1,6 @@
 # CFD + AI Learning Journey
 
-A 13-week hands-on exploration of Physics-Informed Neural Networks (PINNs) applied to computational fluid dynamics, culminating in a research application: recovering Martian soil thermal diffusivity from NASA InSight HP3 mission data using JAX.
+A 13-week hands-on exploration of Physics-Informed Neural Networks (PINNs) applied to computational fluid dynamics, culminating in a research application: recovering Martian soil thermal diffusivity from NASA InSight HP3 mission data using JAX. The final research paper is also included (Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026)
 
 ## What This Repo Covers
 
@@ -29,7 +29,7 @@ A 13-week hands-on exploration of Physics-Informed Neural Networks (PINNs) appli
 
 ## The Mars Problem
 
-The HP3 instrument on NASA's InSight lander measured subsurface temperatures on Mars using the TEM-A sensors on a penetrating probe (the "mole"). The mole got stuck at 36.3 cm depth, but its temperature readings — combined with the RAD surface radiometer — provide a unique dataset for studying Martian soil thermal properties.
+The HP3 instrument on NASA's InSight lander measured subsurface temperatures on Mars using the TEM-A sensors on a penetrating probe (the "mole"). The mole got stuck at 36.3 cm depth, but its temperature readings, combined with the RAD surface radiometer, provide a unique dataset for studying Martian soil thermal properties.
 
 The core question: **can a PINN recover the soil thermal diffusivity (kappa) from temperature measurements alone?**
 
@@ -38,6 +38,8 @@ The journey progresses through:
 2. **Inverse problem** (Weeks 9-10): Learn kappa from data. Single-kappa recovery independently validated Spohn et al.'s published value (3.93 x 10^-8 m2/s). Multi-kappa and 2D approaches revealed structural identifiability challenges.
 3. **Decomposition** (Week 11): Splitting the solution as T = T_1D + T_pert to isolate the mole's thermal perturbation from undisturbed soil temperature.
 4. **Verification** (Weeks 12-13): Statistical validation across multiple initializations and noise robustness testing.
+
+Final paper pdf document: (Sanchez_Cheble_PINNs_Mars_Thermal_Diffusivity_2026)
 
 ## Prerequisites
 
